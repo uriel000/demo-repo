@@ -9,5 +9,6 @@ Hello world!
 ## Local Development
 
 1. Open index.html in your browser
-2. This is my second instruction
-3. This is my 3rd instruction
+2. Changed new instructins
+3. Added 3rd instruction
+4. Added my 4th instruction
